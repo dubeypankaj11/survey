@@ -1,5 +1,5 @@
 #[JD eSurvey](http://www.jdsoft.com/jdesurvey)
-### Data Gathering Made Easy
+## Data Gathering Made Easy
 
 [JD eSurvey](http://www.jdsoft.com/jdesurvey) is a java open source survey tool web application developed by [JD Software](http://www.jdsoft.com) for the creation, collection, and analysis of surveys. Written in Java and built using the Spring Framework and Hibernate ORM, JD eSurvey is a powerful web application. It has a range of features from branching and randomization, to piping for survey control, to a long list of question types, including video questions.
 
